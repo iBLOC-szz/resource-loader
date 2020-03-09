@@ -1,0 +1,17 @@
+{
+  "name": "resource-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ibloc.szz",
+  "license": "MIT",
+  "dependencies": {
+    "ali-oss": "^6.3.1",
+    "colors": "^1.4.0",
+    "commander": "^4.0.1",
+    "inquirer": "^7.0.1",
+    "node-fetch": "^2.6.0"
+  },
+  "bin": {
+    "spa-deploy": "index.js"
+  }
+}
